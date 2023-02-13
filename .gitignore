@@ -1,0 +1,8 @@
+# Makefile
+Makefile
+
+# potential test case in pdf
+*.pdf
+
+# pycache
+*/__pycache__/
