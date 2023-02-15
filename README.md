@@ -28,10 +28,8 @@ The idea of its creation seeds in the need of a small, fast and free software fo
 
 ### For Windows
 
+* If you only want to have access to the app and your are not interested into the code, please download the package **SpeakMaths_Trainer_win**
 
-### For Unix (Linux/MacOS)
-
-in progress
 
 ## Contributors
 
